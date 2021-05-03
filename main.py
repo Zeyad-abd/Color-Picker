@@ -3,6 +3,7 @@ import PIL
 import re
 from pynput.mouse import Listener
 import pyperclip
+import json
 
 
 class Color():
