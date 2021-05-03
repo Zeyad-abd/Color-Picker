@@ -1,7 +1,7 @@
 # Color-Picker
 Pick any color on your screen with python.
 
-**Dependencies:**
+# Dependencies 
 
 -Python 3
 
@@ -14,3 +14,13 @@ Pick any color on your screen with python.
 -Pynput library
 
 -Pyperclip library
+
+# Usage
+
+-Download the folder and extract it
+
+-Run "main.py"
+
+-Click on any part of your screen
+
+-Program will auto insert the hex into your clipboard
