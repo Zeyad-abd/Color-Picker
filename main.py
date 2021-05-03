@@ -18,9 +18,9 @@ class Color():
             coords.append(single)
 
         sceenshot = pyautogui.screenshot()
-        sceenshot.save(r'screenshot/screen.png')
+        sceenshot.save(r'screen.png')
 
-        image = PIL.Image.open("screenshot/screen.png")
+        image = PIL.Image.open("screen.png")
 
         x = coords[0]
         y = coords[1]
