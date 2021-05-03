@@ -3,7 +3,6 @@ import PIL
 import re
 from pynput.mouse import Listener
 import pyperclip
-import json
 
 
 class Color():
@@ -19,9 +18,9 @@ class Color():
             coords.append(single)
 
         sceenshot = pyautogui.screenshot()
-        sceenshot.save(r'screen.png')
+        sceenshot.save(r'screenshot/screen.png')
 
-        image = PIL.Image.open("screen.png")
+        image = PIL.Image.open("screenshot/screen.png")
 
         x = coords[0]
         y = coords[1]
