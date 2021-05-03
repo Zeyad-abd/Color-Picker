@@ -1,7 +1,7 @@
 # Color-Picker
 Pick any color on your screen with python.
 
-# Dependencies 
+# Requirements
 
 -Python 3
 
