@@ -1,7 +1,7 @@
 # Color-Picker
 Pick any color on your screen with python.
 
-**# Dependencies:**
+**Dependencies:**
 -Python 3
 -Pyautogui library
 -PIL library
