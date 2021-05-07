@@ -1,5 +1,5 @@
 # Color-Picker
-Pick any color on your screen with python.
+pick any color on your screen with python
 
 # Requirements
 
